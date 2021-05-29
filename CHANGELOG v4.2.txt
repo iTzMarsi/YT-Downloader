@@ -1,0 +1,9 @@
+YT-D-M v4.2 Changelog
+
+Those bugs have been fixed:
+
+	1. You can now search with special chars like "ä", "ö", "ü"
+	2. The link search has been fixed
+	3. Code got a little cleaned up and runs faster
+
+Enjoy!!!
